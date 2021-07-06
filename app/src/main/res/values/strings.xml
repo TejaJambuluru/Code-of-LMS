@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LibraryAudit</string>
+    <string-array name="select_dept">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>CIV</item>
+        <item>MEC</item>
+    </string-array>
+
+    <string-array name="loginAs">
+        <item>Admin</item>
+        <item>Employee</item>
+    </string-array>
+</resources>
